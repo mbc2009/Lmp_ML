@@ -1,5 +1,5 @@
 # Lmp_ML
-Machin learning study of mass and heat transfer behavior of Graphene Aerogel(GA)\\
+Machin learning study of mass and heat transfer behavior of Graphene Aerogel(GA)
 
 PLEASE DO NOT COPY AND USE WITHOUT AUTHOR'S PERMISSION !!!
 
