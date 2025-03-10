@@ -1,10 +1,6 @@
 # Lmp_ML
 Machin learning study of mass and heat transfer behavior of Graphene Aerogel (GA)
 
-**Ownership:** Honglin Liu (MSE Ph.D. at Georgia Tech)
-
-**Warning:** PLEASE DO NOT COPY AND USE WITHOUT AUTHOR'S PERMISSION !!!
-
 ## Application Background
 - Membrane distillation
 - Graphene aerogel
@@ -31,4 +27,11 @@ Machin learning study of mass and heat transfer behavior of Graphene Aerogel (GA
 Computed using LAMMPS:  
 - `len` = Average sheet length of graphene  
 - `sigma` = Virtual particle zero potential point  
-- `temp` = Testing temperature  
+- `temp` = Testing temperature
+
+----
+**License:** This project is licensed under the Apache 2.0 License
+
+**Ownership:** Honglin Liu (MSE Ph.D. at Georgia Tech)
+
+**Warning:** PLEASE DO NOT COPY AND USE WITHOUT AUTHOR'S PERMISSION 
